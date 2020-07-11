@@ -7,7 +7,7 @@ To install all required dependencies, run `npm install` from within the same dir
 
 * ### Authenticate the bot
 The bot needs your Discord bot account's unique identifier token to log in. If you haven't created a bot account yet, you can do so from the [Discord Developer Portal](https://discord.com/developers/applications).
-To add your bot token, create a file called __auth.json__ and add an attribute called __"token"__. Enter your token as the value.
+To add your bot token, create a file called __auth.json__ and add an attribute called "token". Enter your token as the value.
 You can use the __auth.json.example__ file included in this repository as a template.
 
 * ### Run the program
