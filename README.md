@@ -12,3 +12,6 @@ You can use the __auth.json.example__ file included in this repository as a temp
 
 * ### Run the program
 Run `node wazzupbot.js` to start the bot. It will log into your bot account and appear online as long as the code is running. `CTRL+C` exits the process.
+
+## License
+This code is licensed under the GNU General Public License v3.0. See LICENSE for details.
