@@ -1,5 +1,5 @@
 # wazzupbot
-A Discord bot that replies "WAZZUP" in response to messages that contain any spelling of "wazzup". The bot will create its response with a random number of each letter.
+A Discord bot that replies "WAZZUP" in response to messages that contain any spelling of "wazzup". The bot will create its response with a random number of each letter. Uses the [discord.js](https://discord.js.org/#/) node.js module.
 ## Instructions
 * ### Install dependencies
 You need npm and node on your system to install required dependencies and run the program.
