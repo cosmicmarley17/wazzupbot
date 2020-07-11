@@ -15,4 +15,4 @@ Run `node wazzupbot.js` to start the bot. It will log into your bot account and 
 You can generate an invite URL to add the bot to a Discord server from your [Discord Developer Portal](https://discord.com/developers/applications).
 
 ## License
-This code is licensed under the GNU General Public License v3.0. See LICENSE for details.
+This program is licensed under the GNU General Public License v3.0. See LICENSE for details.
