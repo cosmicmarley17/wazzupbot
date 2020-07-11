@@ -1,7 +1,7 @@
 {
   "name": "wazzupbot",
   "version": "1.0.0",
-  "description": "A Discord bot that replies \"WAZZUP\" in response to messages that contain any spelling of \"wazzup\"",
+  "description": "A Discord bot that replies \"WAZZUP\" in response to messages that contain any spelling of \"wazzup\". The bot will create its response with a random number of each letter.",
   "main": "wazzupbot.js",
   "dependencies": {
     "discord.js": "^12.2.0"
@@ -10,6 +10,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sorcerer17/wazzupbot.git"
+  },
   "author": "Owen Sullivan",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Sorcerer17/wazzupbot/issues"
+  },
+  "homepage": "https://github.com/Sorcerer17/wazzupbot#readme"
 }
