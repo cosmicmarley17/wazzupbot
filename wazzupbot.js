@@ -6,13 +6,13 @@
  *
  * Title: Wazzup Bot
  * Author: Owen Sullivan
- * Version: 1.0.0, July 10 2020
+ * Version: 1.0.1, Jul 31 2020
  */
 
 const Discord = require('discord.js');
  const client = new Discord.Client();
 
-const wazzupRegEx = new RegExp('[Ww]+[Aa]+[ZzSs]+[ZzSs]+[Uu]+[Pp]+');	//Regular expression to identify all spellings of "wazzup". 
+const wazzupRegEx = new RegExp('[Ww]+[Aa]+[ZzSs]+[Uu]+[Pp]+');	//Regular expression to identify all spellings of "wazzup". 
 									//"Wassup" is also accepted.
 
 /*
