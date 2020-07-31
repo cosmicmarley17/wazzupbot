@@ -1,6 +1,6 @@
 {
   "name": "wazzupbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Discord bot that replies \"WAZZUP\" in response to messages that contain any spelling of \"wazzup\". The bot will create its response with a random number of each letter.",
   "main": "wazzupbot.js",
   "dependencies": {
