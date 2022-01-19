@@ -1,4 +1,6 @@
 # wazzupbot
+<img src="screenshots/discord-screenshot.png" alt="A screenshot of a bot reply in Discord">
+
 A Discord bot that replies "WAZZUP" in response to messages that contain any spelling of "wazzup". The bot will create its response with a random number of each letter. Uses the [discord.js](https://discord.js.org/#/) node.js module.
 ## Instructions
 * ### Install dependencies
