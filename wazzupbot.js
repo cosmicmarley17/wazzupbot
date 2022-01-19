@@ -1,12 +1,5 @@
 /*
- * Description:
- * 	A Discord bot that replies to any "wazzup" messages with its own "wazzup"
- * 	Trigger messages can contain any number of w's, a's, z's, etc.
- * 	Response messages will contain a randomly-generated number of w's, a's, z's, etc.
- *
- * Title: Wazzup Bot
- * Author: Owen Sullivan
- * Version: 1.0.2, Apr 04 2021
+ *  Main bot script
  */
 
 const Discord = require('discord.js');

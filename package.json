@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sorcerer17/wazzupbot.git"
+    "url": "git+https://github.com/cosmicmarley17/wazzupbot.git"
   },
-  "author": "Owen Sullivan",
+  "author": "Marley Sullivan",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Sorcerer17/wazzupbot/issues"
+    "url": "https://github.com/cosmicmarley17/wazzupbot/issues"
   },
-  "homepage": "https://github.com/Sorcerer17/wazzupbot#readme"
+  "homepage": "https://github.com/cosmicmarley17/wazzupbot#readme"
 }
